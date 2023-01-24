@@ -8,8 +8,6 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AntonyBy)](https://github.com/AntonyBy/github-profile-trophy)
-
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -31,6 +29,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AntonyBy)](https://github.com/AntonyBy/github-profile-trophy)&nbsp;
 
 
 ### ⚙️ &nbsp;GitHub Analytics
