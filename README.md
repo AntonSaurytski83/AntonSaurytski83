@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>](https://gifdb.com/gif/glitching-hacker-hacking-v56g4l1vaykmsno6.html)
+https://gifdb.com/gif/glitching-hacker-hacking-v56g4l1vaykmsno6.html
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
