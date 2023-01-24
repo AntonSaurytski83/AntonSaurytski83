@@ -42,3 +42,4 @@
 </a>
 </p>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AntonyBy&repo=github-readme-stats)](https://github.com/AntonyBy/github-readme-stats)
